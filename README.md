@@ -1,0 +1,1 @@
+# Komputasi-Tersebar-dan-Paralel
